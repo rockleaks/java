@@ -2,7 +2,7 @@ class string {
     public static void main(String[] args) {
         String s1 = "Adithya";
         String s2 = "Adithya";
-        String s3 = "Adi";
+        // String s3 = "Adi";
         boolean x = s1.equals(s2);
         System.out.println("Compare s1 and s2:" + x);
         System.out.println("Character at given position is:" + s1.charAt(5));
