@@ -17,11 +17,11 @@ Caution: Don't try to use this repo on the examinations, we were not reponsible 
 
 2. Navigate to the directory
 
-    `cd src`
+    `cd java/src`
 
      Or
 
-     `cd java/src`
+     `cd src`
 
 ## Installation without using git
 
