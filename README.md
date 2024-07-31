@@ -29,25 +29,39 @@ Caution: Don't try to use this repo on the examinations, we were not reponsible 
 
    _Or_
    
-1. Download and extract `.zip` file using terminal
+1. Download `.zip` file using terminal
 _On Windows/MacOS/Linux_ ⬇️
 
     - On Linux and Windows Command Prompt Using - `curl`
    
    ```bash
-   curl -o java.zip -L https://github.com/rockleaks/java/archive/refs/heads/main.zip && tar -xvzf java.zip
+   curl -o java.zip -L https://github.com/rockleaks/java/archive/refs/heads/main.zip
    ```
 
     - On Linux and Windows Powershell Using - `wget`
 
     ```bash
-    wget -O java.zip https://github.com/rockleaks/java/archive/refs/heads/main.zip | tar -xvzf java.zip
+    wget -O java.zip https://github.com/rockleaks/java/archive/refs/heads/main.zip
     ```
-2. Navigate to the directory
+
+2. For extract `.zip` file using terminal
+
+    - On Windows, Using - `tar`
+  
+    ```bash
+    tar -xvzf java.zip
+    ```
+    - On Linux/MacOS, Using - `unzip`
+  
+    ```bash
+    unzip java.zip
+    ```
+     
+3. Navigate to the directory
 
    `cd java-main/src`
 
-3. To display all the files in the directory
+4. To display all the files in the directory
 
    - On Windows Command Prompt: `dir`
    - On Windows Powershell: `dir` Or `ls`
