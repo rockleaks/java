@@ -63,7 +63,7 @@ _On Windows/MacOS/Linux_ ⬇️
 4. To display all the files in the directory
 
    - On Windows Command Prompt: `dir`
-   - On Windows Powershell: `dir` Or `ls`
+   - On Windows Powershell: `dir` _or_ `ls`
    - On Linux/MacOS: `ls`
 
 **Note:** All the Java programs should be compiled for executing it.
@@ -78,7 +78,7 @@ _On Windows/MacOS/Linux_ ⬇️
 
     `java filename`
 
-## To delete file
+## To delete files
 
 1. To Delete the file
 
@@ -87,6 +87,7 @@ _On Windows/MacOS/Linux_ ⬇️
   
 2. To Delete the folder
 
-   - On Windows/Linux/MacOS: `rmdir /s foldername`
+   - On Windows: `rmdir /s foldername`
+   - On linux/MacOS: `rm -rf foldername`
    
     
