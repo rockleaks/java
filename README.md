@@ -1,12 +1,11 @@
 # Java Programming 🔎
 
-
-
 Disclaimer: **FOR EDUCATIONAL PURPOSE ONLY! The contributors do not assume any responsibility for the use of this repo.**
 
 Warning: It is advisable to **not** use your own/primary account when using this repo.
 
-Caution: Don't try to use this repo on the examinations, we were not reponsible for any such misleading/misusing activity on this repo.
+Caution: Don't try to use this repo on the examinations, we were not reponsible for any such misleading/misusing activity using this repo.
+
 ## Installation ⚙️
 
 - If you have git installed on your computer, follow this instructions.
