@@ -29,7 +29,7 @@ Caution: Don't try to use this repo on the examinations, we were not reponsible 
 
    _Or_
    
-1. Download `.zip` file using terminal
+1. Download `.zip` file in terminal
 _On Windows/MacOS/Linux_ ⬇️
 
     - On Linux and Windows Command Prompt Using - `curl`
