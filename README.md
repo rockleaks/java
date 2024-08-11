@@ -6,7 +6,7 @@ Disclaimer: **FOR EDUCATIONAL PURPOSE ONLY! The contributors do not assume any r
 
 Warning: It is advisable to **not** use your own/primary account when using this repo.
 
-Caution: Don't try to use this repo on the examinations, we were not reponsible for any such misleading/misusing activity towards this repo.
+Caution: Don't try to use this repo on the examinations, we were not reponsible for any such misleading/misusing activity on this repo.
 ## Installation ⚙️
 
 - If you have git installed on your computer, follow this instructions.
