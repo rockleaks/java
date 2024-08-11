@@ -78,4 +78,16 @@ _On Windows/MacOS/Linux_ ⬇️
 2. To execute the compiled code 
 
     `java filename`
+
+## To delete file
+
+1. To Delete the file
+
+   - On Windows Command Prompt/Powershell: `del filename.java`
+   - On Linux/MacOS: `rm filename.java`
+  
+2. To Delete the folder
+
+   - On Windows/Linux/MacOS: `rmdir /s foldername`
+   
     
