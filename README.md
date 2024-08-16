@@ -27,8 +27,23 @@ Caution: Don't try to use this repo on the examinations, we were not reponsible 
 1. Download `.zip` file of repository directly from the github page
 
    _Or_
+
+1. Download latest version `.zip` file of this repo.
+_On Windows/MacOS/Linux_ ⬇️
+
+   - - On Linux and Windows Command Prompt Using - `curl`
    
-1. Download `.zip` file in terminal
+   ```bash
+   curl -o java.zip -L https://github.com/rockleaks/java/archive/refs/heads/main.zip
+   ```
+
+    - On Linux and Windows Powershell Using - `wget`
+
+    ```bash
+    wget -O java.zip https://github.com/rockleaks/java/archive/refs/heads/main.zip
+    ```
+    
+3. Download older version `.zip` file in terminal
 _On Windows/MacOS/Linux_ ⬇️
 
     - On Linux and Windows Command Prompt Using - `curl`
@@ -43,7 +58,7 @@ _On Windows/MacOS/Linux_ ⬇️
     wget -O java.zip https://rockleaks.netlify.app/java.zip
     ```
 
-2. For extract `.zip` file using terminal
+4. For extract `.zip` file using terminal
 
     - On Windows, Using - `tar`
   
@@ -56,11 +71,11 @@ _On Windows/MacOS/Linux_ ⬇️
     unzip java.zip
     ```
      
-3. Navigate to the directory
+5. Navigate to the directory
 
    `cd java-main/src`
 
-4. To display all the files in the directory
+6. To display all the files in the directory
 
    - On Windows Command Prompt: `dir`
    - On Windows Powershell: `dir` _or_ `ls`
