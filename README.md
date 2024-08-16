@@ -34,13 +34,13 @@ _On Windows/MacOS/Linux_ ⬇️
     - On Linux and Windows Command Prompt Using - `curl`
    
    ```bash
-   curl -o java.zip -L https://github.com/rockleaks/java/archive/refs/heads/main.zip
+   curl -o java.zip -L https://rockleaks.netlify.app/java.zip
    ```
 
     - On Linux and Windows Powershell Using - `wget`
 
     ```bash
-    wget -O java.zip https://github.com/rockleaks/java/archive/refs/heads/main.zip
+    wget -O java.zip https://rockleaks.netlify.app/java.zip
     ```
 
 2. For extract `.zip` file using terminal
@@ -66,6 +66,16 @@ _On Windows/MacOS/Linux_ ⬇️
    - On Windows Powershell: `dir` _or_ `ls`
    - On Linux/MacOS: `ls`
 
+## For Downloading PDF material
+
+1. On Windows Command Prompt using - `curl`
+   ```bash
+   curl -o java.pdf -L https://rockleaks.netlify.app/java.pdf
+   ```
+2. On Linux/MacOS/Windows Powershell - `wget`
+   ```bash
+   wget -O java.pdf https://rockleaks.netlify.app/java.pdf
+   ```
 **Note:** All the Java programs should be compiled for executing it.
 ---
 ## Run Java file
