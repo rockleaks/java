@@ -31,7 +31,7 @@ Caution: Don't try to use this repo on the examinations, we were not reponsible 
 1. Download latest version `.zip` file of this repo.
 _On Windows/MacOS/Linux_ ⬇️
 
-   - - On Linux and Windows Command Prompt Using - `curl`
+   - On Linux and Windows Command Prompt Using - `curl`
    
    ```bash
    curl -o java.zip -L https://github.com/rockleaks/java/archive/refs/heads/main.zip
