@@ -26,7 +26,7 @@ Caution: Don't try to use this repo on the examinations, we were not reponsible 
 
 1. Download `.zip` file of repository directly from the github page
 
-   _Or_
+   _OR_
 
 1. Download latest version `.zip` file of this repo.
 _On Windows/MacOS/Linux_ ⬇️
@@ -42,7 +42,8 @@ _On Windows/MacOS/Linux_ ⬇️
     ```bash
     wget -O java.zip https://github.com/rockleaks/java/archive/refs/heads/main.zip
     ```
-    
+
+    _OR_
 3. Download older version `.zip` file in terminal
 _On Windows/MacOS/Linux_ ⬇️
 
@@ -78,7 +79,7 @@ _On Windows/MacOS/Linux_ ⬇️
 6. To display all the files in the directory
 
    - On Windows Command Prompt: `dir`
-   - On Windows Powershell: `dir` _or_ `ls`
+   - On Windows Powershell: `dir` _OR_ `ls`
    - On Linux/MacOS: `ls`
 
 ## For Downloading PDF material
