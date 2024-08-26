@@ -2,8 +2,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-/* <applet code=”fact.class” width=300 height=300>
-</applet>*/
 public class fact extends JFrame implements ActionListener {
     JLabel i1, i2, i3;
     JTextField tf1, tf2;
